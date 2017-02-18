@@ -3,7 +3,7 @@ This Project is an extension of the [Babakhani Persian Date Picker](http://babak
 For more details on how to use this toolkit, refer to the following link: 
 [Persian Date Picker](http://babakhani.github.io/PersianWebToolkit/doc/datepicker/0.4.5/)
 
-Apart from the instructions given in the link above you can take advantage of the date_picker_initialize.js to easily customize the Pashto Datepicker as shown in the following instructions.
+Apart from the instructions given in the link above you can take advantage of the date_picker_initialize.js to easily use Pashto Datepicker as shown in the following instructions.
 
 Pre-requisites:
 You need to include the following css and javascript files to take advantage of the class defined:
