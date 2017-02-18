@@ -4,7 +4,6 @@ For more details on how to use this toolkit, refer to the following link:
 [Persian Date Picker](http://babakhani.github.io/PersianWebToolkit/doc/datepicker/0.4.5/)
 
 Apart from the instructions given in the link above you can take advantage of the date_picker_initialize.js to easily customize the Pashto Datepicker as shown in the following instructions.
-### Without Time Picker
 
 Pre-requisites:
 You need to include the following css and javascript files to take advantage of the class defined:
@@ -17,6 +16,7 @@ You need to include the following css and javascript files to take advantage of 
 6. dist/js/persian-datepicker-0.4.5.js
 7. dist/js/date_picker_initialize.js
 
+### Without Time Picker
 
 To use only the datepicker to select year, month, day  
 
